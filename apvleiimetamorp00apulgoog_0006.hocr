@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "apvleiimetamorp00apulgoog_0006.png"; bbox 0 0 3014 5026; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 576 600 1009 771">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 576 600 1009 771">
+     <span class='ocr_line' id='line_1_1' title="bbox 576 600 1009 771; baseline -0.007 -20"><span class='ocrx_word' id='word_1_1' title='bbox 576 631 929 771; x_wconf 77' lang='lat' dir='ltr'>APVLEH</span> <span class='ocrx_word' id='word_1_2' title='bbox 977 600 1009 651; x_wconf 73' lang='lat'><em>²</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 188 1065 1312 1222">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 188 1065 1312 1222">
+     <span class='ocr_line' id='line_1_2' title="bbox 188 1065 1312 1222; baseline -0.001 -2"><span class='ocrx_word' id='word_1_3' title='bbox 188 1065 1312 1222; x_wconf 83' lang='lat' dir='ltr'><strong>METAMORPHOSEON</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 537 1439 889 1538">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 537 1439 889 1538">
+     <span class='ocr_line' id='line_1_3' title="bbox 537 1439 889 1538; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 537 1502 540 1508; x_wconf 76' lang='grc'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 610 1439 790 1538; x_wconf 88' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 816 1440 889 1537; x_wconf 87' lang='lat' dir='ltr'><strong>XI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 391 2367 1101 2444">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 391 2367 1101 2444">
+     <span class='ocr_line' id='line_1_4' title="bbox 391 2367 1101 2444; baseline 0.003 -3"><span class='ocrx_word' id='word_1_7' title='bbox 391 2367 701 2444; x_wconf 79' lang='lat' dir='ltr'>FRANOISOVS</span> <span class='ocrx_word' id='word_1_8' title='bbox 729 2368 1101 2444; x_wconf 82' lang='lat' dir='ltr'>EYSSENHARDT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 482 4087 1009 4155">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 482 4087 1009 4155">
+     <span class='ocr_line' id='line_1_5' title="bbox 482 4087 1009 4155; baseline -0.002 0"><span class='ocrx_word' id='word_1_9' title='bbox 482 4087 687 4155; x_wconf 83' lang='lat' dir='ltr'><strong>BEROLINI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 711 4087 1009 4154; x_wconf 80' lang='lat' dir='ltr'>MDOCOLXVIIII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 611 4271 874 4328">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 611 4271 874 4328">
+     <span class='ocr_line' id='line_1_6' title="bbox 611 4271 874 4328; baseline -0.008 -1"><span class='ocrx_word' id='word_1_11' title='bbox 611 4272 631 4327; x_wconf 94' lang='lat' dir='ltr'><strong>l.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 651 4271 874 4328; x_wconf 81' lang='lat' dir='ltr'>GVTTENTAG</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1512 5026">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1512 5026">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1512 5026; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1512 5026; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
